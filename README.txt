@@ -46,6 +46,13 @@ TWO THINGS TO DO BEFORE YOU GO PUBLIC
      convenience, not security.) Type the word again to switch it off.
 
 
+MOBILE
+  Works on phones and tablets with no extra setup. On a touch screen the games that need a keyboard get an
+  on-screen pad (and swipe on 2048, Snake, Maze Runner, Mirror Maze and Lane Hopper); Breakout and Pong
+  follow your finger; wide boards shrink to fit; text boxes open the right keyboard and don't make iPhones zoom.
+  Visitors can use "Add to Home Screen" to keep it like an app.
+
+
 GOOD TO KNOW
   - Daily lineup: Mon-Fri each day shows 8 of the 40 games (the same 8 every Monday, etc.). Saturday opens
     the first 20 games, Sunday the second 20. The day is the visitor's own local calendar day.
