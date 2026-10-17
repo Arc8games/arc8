@@ -20,7 +20,7 @@ KEEP THESE FILES TOGETHER, in the same folder, with these exact names.
 FASTEST WAY TO PUT IT ONLINE (free, ~2 minutes)
   Netlify Drop:  go to app.netlify.com/drop and drag this whole folder onto the page.
                  You get a live https:// link immediately; sign up (free) to keep it.
-  Others that work the same way: GitHub Pages, Cloudflare Pages, Vercel.
+  Others that work the same way: GitHub Pages, Cloudflare Pages, Vercel. 
 
 
 PUTTING IT ON YOUR EXISTING WEBSITE
